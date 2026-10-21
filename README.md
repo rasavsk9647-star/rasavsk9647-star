@@ -112,9 +112,6 @@ Animated website, admin panel for games, offers and café, and a customer app wi
   <img src="https://streak-stats.demolab.com?user=rasavsk9647-star&theme=tokyonight&hide_border=true&background=0B1220&ring=FF8A3D&fire=FF8A3D&currStreakLabel=FF8A3D" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasavsk9647-star&bg_color=0B1220&color=A9B7D0&line=FF8A3D&point=FFFFFF&area=true&area_color=FF8A3D&hide_border=true" alt="Contribution graph" width="100%"/>
-</p>
 
 ---
 
